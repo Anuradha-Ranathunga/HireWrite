@@ -1,5 +1,5 @@
-# 📝 CraftMyLetter: LLM-Powered Cover Letter Generator
-CraftMyLetter is an AI-powered cover letter generator that helps you create personalized, professional cover letters for job applications. Built using Streamlit, LangChain, and LLaMA3, CoverCraft analyzes both job descriptions and resumes to automatically generate a tailored cover letter, highlighting your most relevant skills and experiences.
+# 📝 HireWrite: LLM-Powered Cover Letter Generator
+HireWrite is an AI-powered cover letter generator that helps you create personalized, professional cover letters for job applications. Built using Streamlit, LangChain, and LLaMA3, CoverCraft analyzes both job descriptions and resumes to automatically generate a tailored cover letter, highlighting your most relevant skills and experiences.
 
 ## ✨ Features
 - 🛠️ Job Description Parsing: Understands job requirements and responsibilities by parsing job descriptions.
@@ -30,8 +30,8 @@ Follow these steps to set up CoverCraft on your local machine:
 
 1. Clone the repository:
 ```
-git clone https://github.com/pinilDissanayaka/CraftMyLetter.git
-cd CraftMyLetter
+git clone https://github.com/Anuradha-Ranathunga/HireWrite.git
+cd HireWrite
 ```
 
 2. Create a virtual environment:
@@ -70,12 +70,9 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 ## 📝 License
 This project is licensed under the MIT License. 
 
-## 📧 Contact
-For any questions or feedback, feel free to reach out via email: pinildissanayaka@gmail@com .
-
 ## 📸 Screenshots 
 ![Screenshot 2024-09-22 124101](https://github.com/user-attachments/assets/500ad833-3af6-4b22-9968-910aab0d1e48)
 ![Screenshot 2024-09-22 124114](https://github.com/user-attachments/assets/450b416c-d488-458f-886a-6ece121c1974)
 ![Screenshot 2024-09-22 124128](https://github.com/user-attachments/assets/d4690abf-3043-4be0-99cf-b928fb91fa07)
 
-With CraftMyLetter, job applications just got a whole lot easier! 🚀
+With HireWrite, job applications just got a whole lot easier! 🚀
